@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0a0db7f2-01b8-4887-8d0c-25c5563bcf63"
+      }
+    },
+    "owner": "ai-systems.today"
   }
 }
