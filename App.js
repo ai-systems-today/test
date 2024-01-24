@@ -9,7 +9,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View style={styles.imageContainer}>
-        {/* <Image source={PlaceholderImage} style={styles.image} /> */}
         <Image source={PlaceholderImage} style={PlaceholderImage} />
       </View>
       <StatusBar style="auto" />
